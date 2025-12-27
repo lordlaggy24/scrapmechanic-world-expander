@@ -3,7 +3,8 @@
 WARNING THIS IS AI CODE I DIDNT MAKE THIS
 so if there any major bugs or issues I CAN NOT FIX IT 
 this is just for fun ive finshed alot of survival worlds and had nothing to explore this will let u play a world for years
-hopefully 
+hopefully the reason why its not a custom game or steam workshop addon is beacause i didnt know how to and dont plan on doing it so if u want post this addon on the workshop all u want
+i still want credit even know i didnt make it no one else is doing this for some reason
 
 just makes worlds 5x bigger and 7x the amount of buildings over all its more interesting 
 

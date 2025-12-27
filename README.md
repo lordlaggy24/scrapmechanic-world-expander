@@ -9,7 +9,9 @@ i still want credit even know i didnt make it no one else is doing this for some
 just makes worlds 5x bigger and 7x the amount of buildings over all its more interesting 
 
 READ FOR EASY INSTALL 
-IF PLAYING MULTIPLAYER UR FRIENDS MUST ALSO HAVE IT INSTALLED
+SINGLE PLAYER USE ONLY
+im trying to get muiltplayer working 
+
 how to install open ur local files for scrapmechanic 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/b0929570-44bd-45b0-bbb9-e80008876e00" /> 1
 

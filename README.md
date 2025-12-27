@@ -1,2 +1,24 @@
-# scrapmechanic-world-expander
-just makes worlds 5x bigger and 7x the amount of buildings over all its more interesting    
+# scrapmechanic-world-expander WORKING
+
+WARNING THIS IS AI CODE I DIDNT MAKE THIS
+so if there any major bugs or issues I CAN NOT FIX IT 
+this is just for fun ive finshed alot of survival worlds and had nothing to explore this will let u play a world for years
+hopefully 
+
+just makes worlds 5x bigger and 7x the amount of buildings over all its more interesting 
+
+READ FOR EASY INSTALL 
+IF PLAYING MULTIPLAYER UR FRIENDS MUST ALSO HAVE IT INSTALLED
+how to install open ur local files for scrapmechanic 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/b0929570-44bd-45b0-bbb9-e80008876e00" /> 1
+
+then as ur in files open the survival folder and backup ur scripts folder before this 
+<img width="714" height="323" alt="image" src="https://github.com/user-attachments/assets/a83737f2-6f46-4fc4-b9a3-eb0db843fe9d" /> 2
+
+<img width="641" height="579" alt="image" src="https://github.com/user-attachments/assets/cfb9770a-5157-474d-873e-4d64d29b4904" /> 3
+after moving ur scripts folder u can replace it with the scripts folder inside the survivalworldexpander.zip move it into ur survial folder
+<img width="1353" height="825" alt="image" src="https://github.com/user-attachments/assets/ad195b21-824e-49ad-b4d5-aa5643179aa8" />
+if all done correct u should try making a new survival world and u should clearly see roads buildings ruins out on the edge of the map were it used to be just water now instead of a island u get a world
+
+
+

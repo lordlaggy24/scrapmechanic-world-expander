@@ -1,5 +1,5 @@
-# scrapmechanic-world-expander WORKING
-
+# scrapmechanic-world-expander OUTDATED
+ONLY WORKING ON BETA0.7.4
 WARNING THIS IS AI CODE I DIDNT MAKE THIS
 so if there any major bugs or issues I CAN NOT FIX IT 
 this is just for fun ive finshed alot of survival worlds and had nothing to explore this will let u play a world for years
